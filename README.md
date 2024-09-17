@@ -48,4 +48,3 @@ Create a figure with the x-axis as k and the y-axis as the median false positive
 ## Instructions
 Complete this assignment individually.
 Programming languages allowed: C, C++, Java, Python.
-Turn in the report and source code via Gradescope.
